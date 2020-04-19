@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9109" started-at="2020-04-19T11:52:35Z" finished-at="2020-04-19T11:52:44Z">
+    <groups>
+    </groups>
+    <test name="web.uiautomation.ChromeTest" duration-ms="7498" started-at="2020-04-19T11:52:35Z" finished-at="2020-04-19T11:52:43Z">
+      <class name="web.uiautomation.ChromeTest">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:web.uiautomation.ChromeTest@35f983a6]" name="setup" is-config="true" duration-ms="4290" started-at="2020-04-19T21:52:35Z" finished-at="2020-04-19T21:52:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:web.uiautomation.ChromeTest@35f983a6]" name="setup" is-config="true" duration-ms="4206" started-at="2020-04-19T21:52:35Z" finished-at="2020-04-19T21:52:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:web.uiautomation.ChromeTest@35f983a6]" name="setup" is-config="true" duration-ms="4314" started-at="2020-04-19T21:52:35Z" finished-at="2020-04-19T21:52:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="GSAMPLE3()[pri:0, instance:web.uiautomation.ChromeTest@35f983a6]" name="GSAMPLE3" duration-ms="3063" started-at="2020-04-19T21:52:39Z" finished-at="2020-04-19T21:52:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GSAMPLE3 -->
+        <test-method status="PASS" signature="GSAMPLE2()[pri:0, instance:web.uiautomation.ChromeTest@35f983a6]" name="GSAMPLE2" duration-ms="3099" started-at="2020-04-19T21:52:39Z" finished-at="2020-04-19T21:52:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GSAMPLE2 -->
+        <test-method status="PASS" signature="GSAMPLE1()[pri:0, instance:web.uiautomation.ChromeTest@35f983a6]" name="GSAMPLE1" duration-ms="3085" started-at="2020-04-19T21:52:39Z" finished-at="2020-04-19T21:52:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GSAMPLE1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:web.uiautomation.ChromeTest@35f983a6]" name="tearDown" is-config="true" duration-ms="47" started-at="2020-04-19T21:52:42Z" finished-at="2020-04-19T21:52:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:web.uiautomation.ChromeTest@35f983a6]" name="tearDown" is-config="true" duration-ms="69" started-at="2020-04-19T21:52:43Z" finished-at="2020-04-19T21:52:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:web.uiautomation.ChromeTest@35f983a6]" name="tearDown" is-config="true" duration-ms="74" started-at="2020-04-19T21:52:43Z" finished-at="2020-04-19T21:52:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="terminate()[pri:0, instance:web.uiautomation.ChromeTest@35f983a6]" name="terminate" is-config="true" duration-ms="0" started-at="2020-04-19T21:52:43Z" finished-at="2020-04-19T21:52:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate -->
+      </class> <!-- web.uiautomation.ChromeTest -->
+    </test> <!-- web.uiautomation.ChromeTest -->
+    <test name="web.uiautomation.FirefoxTest" duration-ms="9109" started-at="2020-04-19T11:52:35Z" finished-at="2020-04-19T11:52:44Z">
+      <class name="web.uiautomation.FirefoxTest">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:web.uiautomation.FirefoxTest@73f792cf]" name="setup" is-config="true" duration-ms="4104" started-at="2020-04-19T21:52:35Z" finished-at="2020-04-19T21:52:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="GSAMPLE4()[pri:0, instance:web.uiautomation.FirefoxTest@73f792cf]" name="GSAMPLE4" duration-ms="3987" started-at="2020-04-19T21:52:39Z" finished-at="2020-04-19T21:52:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GSAMPLE4 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:web.uiautomation.FirefoxTest@73f792cf]" name="tearDown" is-config="true" duration-ms="993" started-at="2020-04-19T21:52:43Z" finished-at="2020-04-19T21:52:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="terminate()[pri:0, instance:web.uiautomation.FirefoxTest@73f792cf]" name="terminate" is-config="true" duration-ms="1" started-at="2020-04-19T21:52:44Z" finished-at="2020-04-19T21:52:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate -->
+      </class> <!-- web.uiautomation.FirefoxTest -->
+    </test> <!-- web.uiautomation.FirefoxTest -->
+  </suite> <!-- Suite -->
+</testng-results>
